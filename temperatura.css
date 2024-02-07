@@ -1,0 +1,19 @@
+
+body{
+    background-color: gold;
+    color: black;
+    align-items: center;
+    text-align: center;
+}
+.box{
+    padding: 40px 60px;
+    width: 400px;
+    height: auto;
+    background: rgba(255, 255, 255, 0.67);
+    border-radius: 50px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(4.5px);
+    -webkit-backdrop-filter: blur(4.5px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    margin: 0 auto;
+}
